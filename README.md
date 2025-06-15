@@ -11,7 +11,7 @@ Navigate to:
 `gui\flash\imagePrebattleLoading`
 
 You'll find two folders:
-- `standard` - for normal queue backgrounds
+- `standard` – for normal queue backgrounds
 - `holiday_maneuvers` – for Holiday Maneuvers event backgrounds
 
 To customize:
@@ -27,4 +27,4 @@ If you already have the file:
 
 `scripts\client\WeatherManager.pyc`
 
-in your `res_mods` folder,you can **ignore** the one included in this mod — they are identical.
+in your `res_mods` folder, you can **ignore** the one included in this mod — they are identical.
