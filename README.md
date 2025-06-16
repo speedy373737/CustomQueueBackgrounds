@@ -22,6 +22,14 @@ To customize:
 > If the images don’t match your screen resolution, they may appear cropped or with black bars.
 ## Download
 [Download the latest version here](https://github.com/speedy373737/CustomQueueBackgrounds/releases/latest/download/CustomQueueBackgrounds.zip)
+
+## 🛠️ Installation
+1. Download the zip file above
+2. Open the unzipped CustomQueueBackgrounds folder.
+3. Copy all folders inside to your res_mods/\<current_version\> directory.
+> Do **not** copy the CustomQueueBackgrounds folder itself — only its contents.
+
+> Replace \<current_version\> with your current game version (e.g., `2.1.33.0`).
 ### ⚠️ Notice
 If you already have the file:
 
