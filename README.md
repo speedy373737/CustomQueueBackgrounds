@@ -2,7 +2,7 @@
 
 This mod allows you to customize the background of the queue.
 
-Instead of being limited to 21 overridable background images, this mod introduces folder-based support — you can add any number of images to the designated folders.
+Instead of being limited to 21 overridable background images, this mod introduces folder-based support — you can add any number of images to the designated folders. The images automatically scale to fit your screen resolution.
 
 > Comes with over 80 images, including the game's default backgrounds and other Wargaming imagery.
 ## 🔧 How to Change Images
